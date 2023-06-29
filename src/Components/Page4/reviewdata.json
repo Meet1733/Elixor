@@ -1,0 +1,67 @@
+
+[
+    {
+        "id": "1",
+        "hd1": "CEO",
+        "hd2": "Example Pvt.Ltd.",
+        "txt": "The experience of working with BrandStory, was a wonderful one. They have a passionate, responsible and competent team, very thoughtful and hardworking, and always reliable in delivering the results. We treat each other as business partners, rather than just clients.",
+        "img": "Img1",
+        "name": "Fennan Bell"
+    },
+    {
+        "id": "2",
+        "hd1": "CTO",
+        "hd2": "Example Pvt.Ltd.",
+        "txt": "The experience of working with BrandStory, was a wonderful one. They have a passionate, responsible and competent team, very thoughtful and hardworking, and always reliable in delivering the results. We treat each other as business partners, rather than just clients.",
+        "img": "Img1",
+        "name": "Asokh Chopra"
+    },
+    {
+        "id": "3",
+        "hd1": "CMO",
+        "hd2": "Example Pvt.Ltd.",
+        "txt": "The experience of working with BrandStory, was a wonderful one. They have a passionate, responsible and competent team, very thoughtful and hardworking, and always reliable in delivering the results. We treat each other as business partners, rather than just clients.",
+        "img": "Img1",
+        "name": "Aron Russel"
+    },
+    {
+        "id": "4",
+        "hd1": "COO",
+        "hd2": "Example Pvt.Ltd.",
+        "txt": "The experience of working with BrandStory, was a wonderful one. They have a passionate, responsible and competent team, very thoughtful and hardworking, and always reliable in delivering the results. We treat each other as business partners, rather than just clients.",
+        "img": "Img1",
+        "name": "Hatim Qureshi"
+    },
+    {
+        "id": "5",
+        "hd1": "CEO",
+        "hd2": "Example Pvt.Ltd.",
+        "txt": "The experience of working with BrandStory, was a wonderful one. They have a passionate, responsible and competent team, very thoughtful and hardworking, and always reliable in delivering the results. We treat each other as business partners, rather than just clients.",
+        "img": "Img1",
+        "name": "Meet Harsoda"
+    },
+    {
+        "id": "6",
+        "hd1": "CTO",
+        "hd2": "Example Pvt.Ltd.",
+        "txt": "The experience of working with BrandStory, was a wonderful one. They have a passionate, responsible and competent team, very thoughtful and hardworking, and always reliable in delivering the results. We treat each other as business partners, rather than just clients.",
+        "img": "Img1",
+        "name": "Aditya Sharma"
+    },
+    {
+        "id": "7",
+        "hd1": "CMO",
+        "hd2": "Example Pvt.Ltd.",
+        "txt": "The experience of working with BrandStory, was a wonderful one. They have a passionate, responsible and competent team, very thoughtful and hardworking, and always reliable in delivering the results. We treat each other as business partners, rather than just clients.",
+        "img": "Img1",
+        "name": "Akash Yadav"
+    },
+    {
+        "id": "8",
+        "hd1": "COO",
+        "hd2": "Example Pvt.Ltd.",
+        "txt": "The experience of working with BrandStory, was a wonderful one. They have a passionate, responsible and competent team, very thoughtful and hardworking, and always reliable in delivering the results. We treat each other as business partners, rather than just clients.",
+        "img": "Img1",
+        "name": "Padam Mantry"
+    }
+]

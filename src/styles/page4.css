@@ -1,0 +1,98 @@
+.pg4-main-div{
+    margin-top: 9rem;
+}
+
+.pg4-hd{
+    color: #fff;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 62px;
+    text-align: center;
+}
+
+.pg4-reviews{
+    margin: 4rem 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.pg4-rvw{
+    width: 20.7rem;
+    height: 22.875rem;
+    background: linear-gradient(180deg, rgba(152, 78, 214, 0.5) 0%, rgba(44, 37, 82, 0.5) 100%);
+    border-radius: 10px;
+}
+
+.pg4-rvw-hd1{
+    margin-top: 2rem;
+}
+
+.pg4-rvw-hd1 , .pg4-rvw-hd2{
+    color: #fff;
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.09px;
+    text-align: left;
+    margin-left: 1.25rem;
+}
+
+.pg4-rvw-txt{
+    color: #fff;
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.09px;
+    text-align: left;
+    width: 17.5rem;
+    margin-top: 1.72rem;
+    margin-left: 1.25rem;
+}
+
+.rvw-ftr{
+    background-color: transparent;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    margin-top: 1.25rem;
+    margin-left: 1.25rem;
+}
+
+.pg4-ftr-img{
+    background-color: transparent;
+    width: 2.9rem;
+    height: 2.9rem;
+    margin-right: 1rem;
+}
+
+.pg4-ftr-text{
+    background-color: transparent;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 25px;
+}
+
+.pg4-ftr-page{
+    display: flex;
+    justify-content: center;
+}
+
+.pg4-ftr-btn{
+    width: 3.125rem;
+    height: 3.125rem;
+    border-radius: 10px;
+    background-color: transparent;
+    border: 1px solid rgba(152, 78, 214, 1);
+    cursor: pointer;
+    margin: 0 1.405rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pg4-ftr-arw{
+    width: 20px;
+    height: 20px;
+}

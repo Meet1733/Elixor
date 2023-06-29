@@ -1,0 +1,58 @@
+.pg3-main-div{
+    margin: 20rem 3.8rem 0;
+}
+
+.row-1{
+    display: flex;
+}
+
+.row-2{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.pg3-row-hd{
+    color: #fff;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+.pg3-row-txt{
+    width: 40rem;
+    color: #fff;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    margin: 3rem 0 0 3rem;
+}
+.pg3-row-txt li{
+    margin-bottom: 3rem;
+}
+
+.row-1-rht{
+    margin-left: 1rem;
+}
+
+.row-2-rht{
+    margin-right: 1rem;
+}
+
+.pg3-row-img{
+    width: 43.125rem;
+    height: 30.125rem;
+}
+
+.pg3-img2{
+    width: 41.125rem;
+    height: 32.125rem;
+}
+
+.pg3-img4{
+    width: 43.125rem;
+    height: 32.125rem;
+}
+
+.pg3-ftr{
+    margin-top: 5rem;
+}
